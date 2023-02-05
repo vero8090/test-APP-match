@@ -1,0 +1,17 @@
+.App {
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  border: solid;
+  border-width: 1px;
+  padding: 10px;
+}
+
+td {
+  border: solid;
+  border-width: 1px;
+}
